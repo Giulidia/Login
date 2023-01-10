@@ -9,8 +9,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #201547;
-    background-color: #201547;
+    background-image: 
+    linear-gradient(
+     rgb(244, 62, 201),
+     rgb(67, 7, 187)
+    )
 }
 
 .card {
