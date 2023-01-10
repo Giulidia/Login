@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #201547;
+    background-color: #201547;
+}
+
+.card {
+    width: 360px;
+    height: min-content;
+    padding: 40px;
+    border-radius: 34px;
+    background: #ffffff;
+}
+
+.login h3 {
+    font-size: 23px;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-size: 12px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #201547;
+    border-color: #201547;
+}
+.custom-shape-divider-bottom-1673283284 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1673283284 svg {
+    position: relative;
+    display: block;
+    width: calc(172% + 1.3px);
+    height: 500px;
+}
+
+.custom-shape-divider-bottom-1673283284 .shape-fill {
+    fill: #FFF;
+}
