@@ -44,7 +44,10 @@ body {
 
 .btn-success {
     color: #fff;
-    background-color: #201547;
+    background-color: linear-gradient(
+        rgb(240, 127, 52),
+        rgb(198, 68, 255)
+       );
     border-color: #201547;
 }
 .custom-shape-divider-bottom-1673369099 {
