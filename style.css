@@ -44,11 +44,8 @@ body {
 
 .btn {
     color: #fff;
-    background-color: linear-gradient(
-        rgb(240, 127, 52),
-        rgb(198, 68, 255)
-       );
-    border-color: #201547;
+    background-color: #DA609F;
+    border-color: #DA609F;
 }
 .custom-shape-divider-bottom-1673369099 {
     position: absolute;
